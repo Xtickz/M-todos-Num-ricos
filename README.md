@@ -1,2 +1,2 @@
 # Metodos-Numericos
-En este repositorio encontraras los principales algoritmos hechos en jupyter notebook de los métodos numéricos.
+En este repositorio encontraras los principales algoritmos hechos en jupyter notebook y spyder (Python) de los métodos numéricos.
